@@ -1,29 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cheyne&#39;s blog</title>
+    <title>cheynehy&#39;s space</title>
     <link>https://cheynehy.github.io/</link>
-    <description>Recent content on cheyne&#39;s blog</description>
+    <description>Recent content on cheynehy&#39;s space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 25 Aug 2023 10:13:47 +0800</lastBuildDate><atom:link href="https://cheynehy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Aug 2023 10:07:47 +0800</lastBuildDate><atom:link href="https://cheynehy.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>my first blog</title>
-      <link>https://cheynehy.github.io/blog/test/</link>
-      <pubDate>Fri, 25 Aug 2023 10:13:47 +0800</pubDate>
+      <title>How To Use Checklists To Improve Your UX</title>
+      <link>https://cheynehy.github.io/blog/post-1/</link>
+      <pubDate>Mon, 28 Aug 2023 10:07:47 +0800</pubDate>
       
-      <guid>https://cheynehy.github.io/blog/test/</guid>
-      <description>cv c vv cv cv c
-egre grg fgghsfh ergadg fcdcx x dsvx dfbc drfvc</description>
-    </item>
-    
-    <item>
-      <title>柴犬狗狗最可愛了~</title>
-      <link>https://cheynehy.github.io/blog/second-post/</link>
-      <pubDate>Fri, 25 Aug 2023 10:07:47 +0800</pubDate>
-      
-      <guid>https://cheynehy.github.io/blog/second-post/</guid>
-      <description>console.log(&amp;#34;hello word&amp;#34;) 阿柴是柴犬狗狗 </description>
+      <guid>https://cheynehy.github.io/blog/post-1/</guid>
+      <description>斜體字 兩邊各1個* or _
+ex: asterisks or underscores
+粗體字 兩邊各2個* or _</description>
     </item>
     
     <item>
@@ -32,15 +24,6 @@ egre grg fgghsfh ergadg fcdcx x dsvx dfbc drfvc</description>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
       <guid>https://cheynehy.github.io/blog/post-13/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://cheynehy.github.io/blog/post-7/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://cheynehy.github.io/blog/post-7/</guid>
       <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
